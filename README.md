@@ -1,5 +1,5 @@
 
-# HOTEL MANAGMENT
+# HOTEL 
 
 Hotel managment is a full stack website built with a modren stack having user friendly 
 interface.Have all the features from booking to payment with end to security
