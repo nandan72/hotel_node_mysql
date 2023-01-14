@@ -83,48 +83,9 @@ To deploy this project run
 ```
 
 
-## Used By
-
-This project is used by the following companies:
-
-- Company 1
-- Company 2
 
 
-## Running Tests
 
-To run tests, run the following command
-
-```bash
-  npm run test
-```
-
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://link-to-project
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  nodemon server.js
-```
 
 
 ## Contributing
